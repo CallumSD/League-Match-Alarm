@@ -1,0 +1,9 @@
+c:\users\callum smith\source\repos\League Match Alarm\League Match Alarm\obj\Debug\League Match Alarm.csprojAssemblyReference.cache
+c:\users\callum smith\source\repos\League Match Alarm\League Match Alarm\obj\Debug\League_Match_Alarm.Properties.Resources.resources
+c:\users\callum smith\source\repos\League Match Alarm\League Match Alarm\obj\Debug\League Match Alarm.csproj.GenerateResource.cache
+c:\users\callum smith\source\repos\League Match Alarm\League Match Alarm\obj\Debug\League Match Alarm.csproj.CoreCompileInputs.cache
+c:\users\callum smith\source\repos\League Match Alarm\League Match Alarm\bin\Debug\League Match Alarm.exe.config
+c:\users\callum smith\source\repos\League Match Alarm\League Match Alarm\bin\Debug\League Match Alarm.exe
+c:\users\callum smith\source\repos\League Match Alarm\League Match Alarm\bin\Debug\League Match Alarm.pdb
+c:\users\callum smith\source\repos\League Match Alarm\League Match Alarm\obj\Debug\League Match Alarm.exe
+c:\users\callum smith\source\repos\League Match Alarm\League Match Alarm\obj\Debug\League Match Alarm.pdb

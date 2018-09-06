@@ -1,0 +1,7 @@
+c:\users\callum smith\source\repos\League Match Alarm\League Match Alarm\bin\ez\League Match Alarm.exe.config
+c:\users\callum smith\source\repos\League Match Alarm\League Match Alarm\bin\ez\League Match Alarm.exe
+c:\users\callum smith\source\repos\League Match Alarm\League Match Alarm\obj\ez\League_Match_Alarm.Properties.Resources.resources
+c:\users\callum smith\source\repos\League Match Alarm\League Match Alarm\obj\ez\League Match Alarm.csproj.GenerateResource.cache
+c:\users\callum smith\source\repos\League Match Alarm\League Match Alarm\obj\ez\League Match Alarm.csproj.CoreCompileInputs.cache
+c:\users\callum smith\source\repos\League Match Alarm\League Match Alarm\obj\ez\League Match Alarm.exe
+c:\Users\Callum Smith\source\repos\League Match Alarm\League Match Alarm\obj\ez\League Match Alarm.csprojAssemblyReference.cache
